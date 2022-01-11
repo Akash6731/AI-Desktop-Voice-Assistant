@@ -1,0 +1,2 @@
+# AI-Desktop-Voice-Assistant
+This project works on voice input and give output through voice and also displays the text on the screen. The main agenda of our voice assistance makes people smart and give instant and computed results. The voice assistance takes the voice input through our microphone (Bluetooth and wired microphone) and it converts our voice into computer understandable language gives the required solutions and answers or performs tasks which are asked by the user.
